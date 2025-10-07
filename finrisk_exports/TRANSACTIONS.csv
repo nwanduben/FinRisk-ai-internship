@@ -1,0 +1,121 @@
+TRANSACTION_ID,CUSTOMER_ID,MERCHANT_ID,TRANSACTION_DATE,TRANSACTION_TYPE,AMOUNT,TRANSACTION_STATUS,TRANSACTION_ADDRESS,TRANSACTION_CITY,TRANSACTION_REGION,CHANNEL,TRANSACTION_DEVICE,FRAUD_FLAG
+1,3,7,2023-06-15 09:00:00.000,Debit,150.75,Completed,"123 Market Street, Manchester, M1 2AB",Manchester,Greater Manchester,Online,Mobile,False
+2,5,12,2023-06-16 14:15:00.000,Credit,120.0,Completed,"45 Oxford Road, Manchester, M2 4BB",Manchester,Greater Manchester,In-Store,ATM,True
+3,9,6,2023-06-17 10:30:00.000,Debit,500.0,Failed,"78 Deansgate, Manchester, M3 2LQ",Manchester,Greater Manchester,Online,Laptop,False
+4,15,19,2023-06-18 13:20:00.000,Credit,350.0,Completed,"123 King Street, Manchester, M1 6JQ",Manchester,Greater Manchester,In-Store,POS Terminal,True
+5,2,20,2023-06-19 16:40:00.000,Debit,200.0,Completed,"654 Deansgate, Manchester, M3 2QX",Manchester,Greater Manchester,Online,Mobile,False
+6,8,13,2023-06-20 18:50:00.000,Debit,75.25,Completed,"987 Castlefield, Manchester, M15 4HL",Manchester,Greater Manchester,In-Store,POS Terminal,False
+7,14,17,2023-06-21 20:00:00.000,Credit,240.3,Completed,"123 Rusholme, Manchester, M14 5HZ",Manchester,Greater Manchester,Online,Laptop,True
+8,19,4,2023-06-22 14:05:00.000,Debit,450.0,Completed,"567 Levenshulme, Manchester, M19 3JA",Manchester,Greater Manchester,In-Store,ATM,False
+9,3,10,2023-06-23 09:15:00.000,Credit,600.5,Completed,"345 Moss Side, Manchester, M14 4AH",Manchester,Greater Manchester,Online,Mobile,True
+10,11,18,2023-06-24 11:30:00.000,Debit,125.0,Completed,"987 Levenshulme, Manchester, M19 3JA",Manchester,Greater Manchester,In-Store,POS Terminal,False
+11,13,15,2023-06-25 12:45:00.000,Credit,180.0,Completed,"432 Victoria Park, Manchester, M14 5LJ",Manchester,Greater Manchester,Online,Laptop,True
+12,16,14,2023-06-26 14:50:00.000,Debit,320.0,Completed,"234 Ancoats, Manchester, M4 4BS",Manchester,Greater Manchester,In-Store,POS Terminal,False
+13,17,2,2023-06-27 16:30:00.000,Debit,175.5,Failed,"234 Whalley Range, Manchester, M16 7DA",Manchester,Greater Manchester,Online,Mobile,True
+14,18,16,2023-06-28 18:55:00.000,Credit,260.0,Completed,"345 Fallowfield, Manchester, M14 6BZ",Manchester,Greater Manchester,In-Store,ATM,False
+15,20,9,2023-06-29 19:10:00.000,Debit,380.0,Completed,"234 Whalley Range, Manchester, M16 7DA",Manchester,Greater Manchester,Online,Laptop,False
+16,6,8,2023-06-30 13:00:00.000,Credit,95.75,Completed,"678 Chorlton, Manchester, M21 9JL",Manchester,Greater Manchester,In-Store,POS Terminal,True
+17,4,1,2023-07-01 14:30:00.000,Debit,650.0,Completed,"45 New Cathedral Street, Manchester, M4 3AX",Manchester,Greater Manchester,Online,Mobile,False
+18,7,5,2023-07-02 16:45:00.000,Credit,720.0,Completed,"12 King Street, Manchester, M2 5BB",Manchester,Greater Manchester,In-Store,POS Terminal,True
+19,10,3,2023-07-03 17:50:00.000,Debit,50.0,Failed,"678 Trafford Centre, Manchester, M17 8AA",Manchester,Greater Manchester,Online,Laptop,False
+20,12,11,2023-07-04 14:10:00.000,Credit,200.5,Completed,"567 Oxford Road, Manchester, M2 4BB",Manchester,Greater Manchester,In-Store,ATM,True
+21,2,13,2023-07-05 08:45:00.000,Credit,500.0,Completed,"456 Oxford Road, Manchester, M2 4BB",Manchester,Greater Manchester,Online,Mobile,False
+22,1,7,2023-07-06 09:30:00.000,Debit,350.0,Completed,"123 Market Street, Manchester, M1 2AB",Manchester,Greater Manchester,In-Store,POS Terminal,True
+23,3,14,2023-07-07 10:45:00.000,Credit,150.0,Completed,"789 Piccadilly, Manchester, M3 4EF",Manchester,Greater Manchester,Online,Laptop,False
+24,5,8,2023-07-08 11:00:00.000,Debit,230.0,Completed,"654 Deansgate, Manchester, M3 2QX",Manchester,Greater Manchester,In-Store,ATM,False
+25,7,3,2023-07-09 13:20:00.000,Credit,600.5,Completed,"567 Levenshulme, Manchester, M19 3JA",Manchester,Greater Manchester,Online,Mobile,True
+26,8,5,2023-07-10 14:30:00.000,Debit,175.0,Completed,"987 Castlefield, Manchester, M15 4HL",Manchester,Greater Manchester,In-Store,POS Terminal,False
+27,4,16,2023-07-11 15:10:00.000,Credit,420.0,Completed,"123 King Street, Manchester, M1 6JQ",Manchester,Greater Manchester,Online,Laptop,True
+28,9,12,2023-07-12 16:50:00.000,Debit,250.0,Completed,"345 Moss Side, Manchester, M14 4AH",Manchester,Greater Manchester,In-Store,ATM,False
+29,6,17,2023-07-13 17:00:00.000,Credit,320.0,Completed,"567 Whalley Range, Manchester, M16 7DA",Manchester,Greater Manchester,Online,Mobile,True
+30,10,2,2023-07-14 18:30:00.000,Debit,190.0,Completed,"789 Broughton, Manchester, M7 1PB",Manchester,Greater Manchester,In-Store,POS Terminal,False
+31,13,19,2023-07-15 19:15:00.000,Credit,700.0,Completed,"432 Victoria Park, Manchester, M14 5LJ",Manchester,Greater Manchester,Online,Laptop,True
+32,11,6,2023-07-16 20:10:00.000,Debit,500.0,Completed,"987 Levenshulme, Manchester, M19 3JA",Manchester,Greater Manchester,In-Store,POS Terminal,False
+33,12,10,2023-07-17 09:00:00.000,Credit,180.0,Completed,"234 Ancoats, Manchester, M4 4BS",Manchester,Greater Manchester,Online,Mobile,False
+34,16,13,2023-07-18 10:45:00.000,Debit,125.5,Completed,"234 Whalley Range, Manchester, M16 7DA",Manchester,Greater Manchester,In-Store,ATM,True
+35,14,4,2023-07-19 11:00:00.000,Credit,560.0,Completed,"567 Deansgate, Manchester, M3 2QX",Manchester,Greater Manchester,Online,Laptop,False
+36,15,18,2023-07-20 12:30:00.000,Debit,300.0,Completed,"345 Fallowfield, Manchester, M14 6BZ",Manchester,Greater Manchester,In-Store,POS Terminal,False
+37,19,9,2023-07-21 13:40:00.000,Credit,800.0,Completed,"234 Trafford Centre, Manchester, M17 8AA",Manchester,Greater Manchester,Online,Mobile,True
+38,18,15,2023-07-22 14:10:00.000,Debit,230.0,Completed,"567 Oxford Road, Manchester, M2 4BB",Manchester,Greater Manchester,In-Store,ATM,False
+39,17,20,2023-07-23 15:20:00.000,Credit,550.0,Completed,"234 New Cathedral Street, Manchester, M4 3AX",Manchester,Greater Manchester,Online,Laptop,False
+40,20,11,2023-07-24 16:50:00.000,Debit,400.0,Completed,"567 Market Street, Manchester, M1 1AW",Manchester,Greater Manchester,In-Store,POS Terminal,True
+41,10,15,2023-07-01 10:00:00.000,Debit,120.5,Completed,"123 Market Street, Manchester, M1 1AW",Manchester,Greater Manchester,In-Store,POS Terminal,False
+42,3,9,2023-07-02 12:30:00.000,Credit,300.0,Completed,"45 Oxford Road, Manchester, M2 4BB",Manchester,Greater Manchester,Online,Laptop,True
+43,5,7,2023-07-03 14:20:00.000,Debit,250.0,Completed,"678 Deansgate, Manchester, M3 4QX",Manchester,Greater Manchester,In-Store,POS Terminal,False
+44,9,2,2023-07-04 15:40:00.000,Credit,450.75,Completed,"45 Trafford Centre, Manchester, M17 8AA",Manchester,Greater Manchester,Online,Mobile,True
+45,2,19,2023-07-05 16:00:00.000,Debit,89.99,Completed,"234 Oldham Road, Manchester, M1 4LF",Manchester,Greater Manchester,In-Store,ATM,False
+46,7,12,2023-07-06 17:30:00.000,Credit,120.0,Completed,"67 High Street, Manchester, M2 3BB",Manchester,Greater Manchester,Online,Laptop,True
+47,6,3,2023-07-07 10:50:00.000,Debit,150.0,Completed,"33 Chorlton Road, Manchester, M21 9JL",Manchester,Greater Manchester,In-Store,POS Terminal,False
+48,4,5,2023-07-08 11:30:00.000,Credit,600.0,Completed,"98 Deansgate, Manchester, M3 2QX",Manchester,Greater Manchester,Online,Mobile,True
+49,11,14,2023-07-09 12:15:00.000,Debit,320.0,Completed,"45 Wilmslow Road, Manchester, M14 5DL",Manchester,Greater Manchester,In-Store,ATM,False
+50,12,6,2023-07-10 13:20:00.000,Credit,400.0,Completed,"56 Piccadilly Gardens, Manchester, M1 1AB",Manchester,Greater Manchester,Online,Laptop,True
+51,14,18,2023-07-11 14:50:00.000,Debit,99.99,Completed,"120 Victoria Park, Manchester, M14 5LJ",Manchester,Greater Manchester,In-Store,POS Terminal,False
+52,13,8,2023-07-12 15:30:00.000,Credit,220.0,Completed,"78 Exchange Square, Manchester, M4 3AG",Manchester,Greater Manchester,Online,Mobile,True
+53,8,16,2023-07-13 16:40:00.000,Debit,150.0,Completed,"90 Deansgate, Manchester, M3 2QX",Manchester,Greater Manchester,In-Store,ATM,False
+54,10,20,2023-07-14 17:00:00.000,Credit,330.0,Completed,"55 Market Street, Manchester, M1 2AB",Manchester,Greater Manchester,Online,Laptop,True
+55,7,17,2023-07-15 18:10:00.000,Debit,200.0,Completed,"34 Oxford Road, Manchester, M2 3AX",Manchester,Greater Manchester,In-Store,POS Terminal,False
+56,11,4,2023-07-16 19:15:00.000,Credit,150.5,Completed,"78 Chorlton, Manchester, M21 9AB",Manchester,Greater Manchester,Online,Mobile,True
+57,6,13,2023-07-17 10:30:00.000,Debit,170.0,Completed,"234 King Street, Manchester, M2 4AB",Manchester,Greater Manchester,In-Store,ATM,False
+58,9,1,2023-07-18 11:45:00.000,Credit,250.0,Completed,"45 Deansgate, Manchester, M3 2QX",Manchester,Greater Manchester,Online,Mobile,True
+59,14,10,2023-07-19 12:50:00.000,Debit,180.0,Completed,"87 Oxford Road, Manchester, M2 4BB",Manchester,Greater Manchester,In-Store,POS Terminal,False
+60,12,15,2023-07-20 13:20:00.000,Credit,400.0,Completed,"56 Whalley Range, Manchester, M16 7BB",Manchester,Greater Manchester,Online,Laptop,True
+1,3,7,2023-06-15 09:00:00.000,Debit,150.75,Completed,"123 Market Street, Manchester, M1 2AB",Manchester,Greater Manchester,Online,Mobile,False
+2,5,12,2023-06-16 14:15:00.000,Credit,120.0,Completed,"45 Oxford Road, Manchester, M2 4BB",Manchester,Greater Manchester,In-Store,ATM,True
+3,9,6,2023-06-17 10:30:00.000,Debit,500.0,Failed,"78 Deansgate, Manchester, M3 2LQ",Manchester,Greater Manchester,Online,Laptop,False
+4,15,19,2023-06-18 13:20:00.000,Credit,350.0,Completed,"123 King Street, Manchester, M1 6JQ",Manchester,Greater Manchester,In-Store,POS Terminal,True
+5,2,20,2023-06-19 16:40:00.000,Debit,200.0,Completed,"654 Deansgate, Manchester, M3 2QX",Manchester,Greater Manchester,Online,Mobile,False
+6,8,13,2023-06-20 18:50:00.000,Debit,75.25,Completed,"987 Castlefield, Manchester, M15 4HL",Manchester,Greater Manchester,In-Store,POS Terminal,False
+7,14,17,2023-06-21 20:00:00.000,Credit,240.3,Completed,"123 Rusholme, Manchester, M14 5HZ",Manchester,Greater Manchester,Online,Laptop,True
+8,19,4,2023-06-22 14:05:00.000,Debit,450.0,Completed,"567 Levenshulme, Manchester, M19 3JA",Manchester,Greater Manchester,In-Store,ATM,False
+9,3,10,2023-06-23 09:15:00.000,Credit,600.5,Completed,"345 Moss Side, Manchester, M14 4AH",Manchester,Greater Manchester,Online,Mobile,True
+10,11,18,2023-06-24 11:30:00.000,Debit,125.0,Completed,"987 Levenshulme, Manchester, M19 3JA",Manchester,Greater Manchester,In-Store,POS Terminal,False
+11,13,15,2023-06-25 12:45:00.000,Credit,180.0,Completed,"432 Victoria Park, Manchester, M14 5LJ",Manchester,Greater Manchester,Online,Laptop,True
+12,16,14,2023-06-26 14:50:00.000,Debit,320.0,Completed,"234 Ancoats, Manchester, M4 4BS",Manchester,Greater Manchester,In-Store,POS Terminal,False
+13,17,2,2023-06-27 16:30:00.000,Debit,175.5,Failed,"234 Whalley Range, Manchester, M16 7DA",Manchester,Greater Manchester,Online,Mobile,True
+14,18,16,2023-06-28 18:55:00.000,Credit,260.0,Completed,"345 Fallowfield, Manchester, M14 6BZ",Manchester,Greater Manchester,In-Store,ATM,False
+15,20,9,2023-06-29 19:10:00.000,Debit,380.0,Completed,"234 Whalley Range, Manchester, M16 7DA",Manchester,Greater Manchester,Online,Laptop,False
+16,6,8,2023-06-30 13:00:00.000,Credit,95.75,Completed,"678 Chorlton, Manchester, M21 9JL",Manchester,Greater Manchester,In-Store,POS Terminal,True
+17,4,1,2023-07-01 14:30:00.000,Debit,650.0,Completed,"45 New Cathedral Street, Manchester, M4 3AX",Manchester,Greater Manchester,Online,Mobile,False
+18,7,5,2023-07-02 16:45:00.000,Credit,720.0,Completed,"12 King Street, Manchester, M2 5BB",Manchester,Greater Manchester,In-Store,POS Terminal,True
+19,10,3,2023-07-03 17:50:00.000,Debit,50.0,Failed,"678 Trafford Centre, Manchester, M17 8AA",Manchester,Greater Manchester,Online,Laptop,False
+20,12,11,2023-07-04 14:10:00.000,Credit,200.5,Completed,"567 Oxford Road, Manchester, M2 4BB",Manchester,Greater Manchester,In-Store,ATM,True
+21,2,13,2023-07-05 08:45:00.000,Credit,500.0,Completed,"456 Oxford Road, Manchester, M2 4BB",Manchester,Greater Manchester,Online,Mobile,False
+22,1,7,2023-07-06 09:30:00.000,Debit,350.0,Completed,"123 Market Street, Manchester, M1 2AB",Manchester,Greater Manchester,In-Store,POS Terminal,True
+23,3,14,2023-07-07 10:45:00.000,Credit,150.0,Completed,"789 Piccadilly, Manchester, M3 4EF",Manchester,Greater Manchester,Online,Laptop,False
+24,5,8,2023-07-08 11:00:00.000,Debit,230.0,Completed,"654 Deansgate, Manchester, M3 2QX",Manchester,Greater Manchester,In-Store,ATM,False
+25,7,3,2023-07-09 13:20:00.000,Credit,600.5,Completed,"567 Levenshulme, Manchester, M19 3JA",Manchester,Greater Manchester,Online,Mobile,True
+26,8,5,2023-07-10 14:30:00.000,Debit,175.0,Completed,"987 Castlefield, Manchester, M15 4HL",Manchester,Greater Manchester,In-Store,POS Terminal,False
+27,4,16,2023-07-11 15:10:00.000,Credit,420.0,Completed,"123 King Street, Manchester, M1 6JQ",Manchester,Greater Manchester,Online,Laptop,True
+28,9,12,2023-07-12 16:50:00.000,Debit,250.0,Completed,"345 Moss Side, Manchester, M14 4AH",Manchester,Greater Manchester,In-Store,ATM,False
+29,6,17,2023-07-13 17:00:00.000,Credit,320.0,Completed,"567 Whalley Range, Manchester, M16 7DA",Manchester,Greater Manchester,Online,Mobile,True
+30,10,2,2023-07-14 18:30:00.000,Debit,190.0,Completed,"789 Broughton, Manchester, M7 1PB",Manchester,Greater Manchester,In-Store,POS Terminal,False
+31,13,19,2023-07-15 19:15:00.000,Credit,700.0,Completed,"432 Victoria Park, Manchester, M14 5LJ",Manchester,Greater Manchester,Online,Laptop,True
+32,11,6,2023-07-16 20:10:00.000,Debit,500.0,Completed,"987 Levenshulme, Manchester, M19 3JA",Manchester,Greater Manchester,In-Store,POS Terminal,False
+33,12,10,2023-07-17 09:00:00.000,Credit,180.0,Completed,"234 Ancoats, Manchester, M4 4BS",Manchester,Greater Manchester,Online,Mobile,False
+34,16,13,2023-07-18 10:45:00.000,Debit,125.5,Completed,"234 Whalley Range, Manchester, M16 7DA",Manchester,Greater Manchester,In-Store,ATM,True
+35,14,4,2023-07-19 11:00:00.000,Credit,560.0,Completed,"567 Deansgate, Manchester, M3 2QX",Manchester,Greater Manchester,Online,Laptop,False
+36,15,18,2023-07-20 12:30:00.000,Debit,300.0,Completed,"345 Fallowfield, Manchester, M14 6BZ",Manchester,Greater Manchester,In-Store,POS Terminal,False
+37,19,9,2023-07-21 13:40:00.000,Credit,800.0,Completed,"234 Trafford Centre, Manchester, M17 8AA",Manchester,Greater Manchester,Online,Mobile,True
+38,18,15,2023-07-22 14:10:00.000,Debit,230.0,Completed,"567 Oxford Road, Manchester, M2 4BB",Manchester,Greater Manchester,In-Store,ATM,False
+39,17,20,2023-07-23 15:20:00.000,Credit,550.0,Completed,"234 New Cathedral Street, Manchester, M4 3AX",Manchester,Greater Manchester,Online,Laptop,False
+40,20,11,2023-07-24 16:50:00.000,Debit,400.0,Completed,"567 Market Street, Manchester, M1 1AW",Manchester,Greater Manchester,In-Store,POS Terminal,True
+41,10,15,2023-07-01 10:00:00.000,Debit,120.5,Completed,"123 Market Street, Manchester, M1 1AW",Manchester,Greater Manchester,In-Store,POS Terminal,False
+42,3,9,2023-07-02 12:30:00.000,Credit,300.0,Completed,"45 Oxford Road, Manchester, M2 4BB",Manchester,Greater Manchester,Online,Laptop,True
+43,5,7,2023-07-03 14:20:00.000,Debit,250.0,Completed,"678 Deansgate, Manchester, M3 4QX",Manchester,Greater Manchester,In-Store,POS Terminal,False
+44,9,2,2023-07-04 15:40:00.000,Credit,450.75,Completed,"45 Trafford Centre, Manchester, M17 8AA",Manchester,Greater Manchester,Online,Mobile,True
+45,2,19,2023-07-05 16:00:00.000,Debit,89.99,Completed,"234 Oldham Road, Manchester, M1 4LF",Manchester,Greater Manchester,In-Store,ATM,False
+46,7,12,2023-07-06 17:30:00.000,Credit,120.0,Completed,"67 High Street, Manchester, M2 3BB",Manchester,Greater Manchester,Online,Laptop,True
+47,6,3,2023-07-07 10:50:00.000,Debit,150.0,Completed,"33 Chorlton Road, Manchester, M21 9JL",Manchester,Greater Manchester,In-Store,POS Terminal,False
+48,4,5,2023-07-08 11:30:00.000,Credit,600.0,Completed,"98 Deansgate, Manchester, M3 2QX",Manchester,Greater Manchester,Online,Mobile,True
+49,11,14,2023-07-09 12:15:00.000,Debit,320.0,Completed,"45 Wilmslow Road, Manchester, M14 5DL",Manchester,Greater Manchester,In-Store,ATM,False
+50,12,6,2023-07-10 13:20:00.000,Credit,400.0,Completed,"56 Piccadilly Gardens, Manchester, M1 1AB",Manchester,Greater Manchester,Online,Laptop,True
+51,14,18,2023-07-11 14:50:00.000,Debit,99.99,Completed,"120 Victoria Park, Manchester, M14 5LJ",Manchester,Greater Manchester,In-Store,POS Terminal,False
+52,13,8,2023-07-12 15:30:00.000,Credit,220.0,Completed,"78 Exchange Square, Manchester, M4 3AG",Manchester,Greater Manchester,Online,Mobile,True
+53,8,16,2023-07-13 16:40:00.000,Debit,150.0,Completed,"90 Deansgate, Manchester, M3 2QX",Manchester,Greater Manchester,In-Store,ATM,False
+54,10,20,2023-07-14 17:00:00.000,Credit,330.0,Completed,"55 Market Street, Manchester, M1 2AB",Manchester,Greater Manchester,Online,Laptop,True
+55,7,17,2023-07-15 18:10:00.000,Debit,200.0,Completed,"34 Oxford Road, Manchester, M2 3AX",Manchester,Greater Manchester,In-Store,POS Terminal,False
+56,11,4,2023-07-16 19:15:00.000,Credit,150.5,Completed,"78 Chorlton, Manchester, M21 9AB",Manchester,Greater Manchester,Online,Mobile,True
+57,6,13,2023-07-17 10:30:00.000,Debit,170.0,Completed,"234 King Street, Manchester, M2 4AB",Manchester,Greater Manchester,In-Store,ATM,False
+58,9,1,2023-07-18 11:45:00.000,Credit,250.0,Completed,"45 Deansgate, Manchester, M3 2QX",Manchester,Greater Manchester,Online,Mobile,True
+59,14,10,2023-07-19 12:50:00.000,Debit,180.0,Completed,"87 Oxford Road, Manchester, M2 4BB",Manchester,Greater Manchester,In-Store,POS Terminal,False
+60,12,15,2023-07-20 13:20:00.000,Credit,400.0,Completed,"56 Whalley Range, Manchester, M16 7BB",Manchester,Greater Manchester,Online,Laptop,True

@@ -1,0 +1,161 @@
+CUSTOMER_ID,FIRST_NAME,LAST_NAME,DOB,EMAIL,PHONE_NUMBER,ADDRESS,REGION,CITY,ACCOUNT_STATUS,ACCOUNT_TYPE,DATE_CREATED
+1,Olivia,Smith,1970-01-01,olivia.smith@email.com,+44 7911 654321,"456 High Street, Manchester, M2 3CD",Greater Manchester,Manchester,Active,Checking,2023-03-05 14:00:00
+2,Amara,Okafor,1970-01-01,amara.okafor@email.com,+44 7911 987654,"789 Piccadilly, Manchester, M3 4EF",Greater Manchester,Manchester,Suspended,Savings,2023-04-10 11:30:00
+3,Ivan,Petrov,1970-01-01,ivan.petrov@email.com,+44 7911 654987,"321 Oxford Road, Manchester, M2 4AB",Greater Manchester,Manchester,Active,Credit,2023-02-25 08:00:00
+4,Marta,Kowalska,1970-01-01,marta.kowalska@email.com,+44 7911 112233,"654 Deansgate, Manchester, M3 2QX",Greater Manchester,Manchester,Active,Savings,2023-04-12 15:00:00
+5,Kwame,Asamoah,1970-01-01,kwame.asamoah@email.com,+44 7911 223344,"213 King Street, Manchester, M1 1AD",Greater Manchester,Manchester,Active,Checking,2023-01-18 13:45:00
+6,Sofia,Morozova,1970-01-01,sofia.morozova@email.com,+44 7911 667788,"987 Castlefield, Manchester, M15 4HL",Greater Manchester,Manchester,Suspended,Credit,2023-05-09 09:30:00
+7,Fatou,Diallo,1970-01-01,fatou.diallo@email.com,+44 7911 445566,"123 Rusholme, Manchester, M14 5HZ",Greater Manchester,Manchester,Active,Savings,2023-04-01 17:00:00
+8,Daniel,Ogunleye,1970-01-01,daniel.ogunleye@email.com,+44 7911 778899,"345 Moss Side, Manchester, M14 4AH",Greater Manchester,Manchester,Active,Checking,2023-02-17 12:20:00
+9,Elena,Sokolova,1970-01-01,elena.sokolova@email.com,+44 7911 990011,"567 Levenshulme, Manchester, M19 3JA",Greater Manchester,Manchester,Suspended,Savings,2023-05-05 14:45:00
+10,Liam,Jones,1970-01-01,liam.jones@email.com,+44 7911 123321,"876 Ashton Old Road, Manchester, M11 4HF",Greater Manchester,Manchester,Active,Credit,2023-03-12 09:15:00
+11,Nina,Martinez,1970-01-01,nina.martinez@email.com,+44 7911 334455,"432 Victoria Park, Manchester, M14 5LJ",Greater Manchester,Manchester,Active,Savings,2023-01-23 10:30:00
+12,Mikhail,Ivanov,1970-01-01,mikhail.ivanov@email.com,+44 7911 556677,"321 Longsight, Manchester, M12 5RL",Greater Manchester,Manchester,Suspended,Credit,2023-04-15 11:00:00
+13,Amina,Mohammed,1970-01-01,amina.mohammed@email.com,+44 7911 667799,"123 Newton Heath, Manchester, M40 3HR",Greater Manchester,Manchester,Active,Savings,2023-03-28 16:00:00
+14,Tomasz,Nowak,1970-01-01,tomasz.nowak@email.com,+44 7911 223577,"654 Chorlton, Manchester, M21 9JL",Greater Manchester,Manchester,Active,Checking,2023-04-10 10:00:00
+15,Rita,Nwankwo,1970-01-01,rita.nwankwo@email.com,+44 7911 889900,"789 Broughton, Manchester, M7 1PB",Greater Manchester,Manchester,Suspended,Savings,2023-05-02 13:00:00
+16,Zoe,Peters,1970-01-01,zoe.peters@email.com,+44 7911 112233,"234 Ancoats, Manchester, M4 4BS",Greater Manchester,Manchester,Active,Credit,2023-02-10 12:30:00
+17,Olu,Adebayo,1970-01-01,olu.adebayo@email.com,+44 7911 334478,"345 Fallowfield, Manchester, M14 6BZ",Greater Manchester,Manchester,Active,Savings,2023-03-20 18:00:00
+18,Kristina,Lebedeva,1970-01-01,kristina.lebedeva@email.com,+44 7911 445577,"234 Whalley Range, Manchester, M16 7DA",Greater Manchester,Manchester,Suspended,Credit,2023-04-21 14:10:00
+19,Lucia,Susan,1970-01-01,lucia.susan@email.com,+44 7911 399458,"433 Victoria Park, Manchester, M14 5LJ",Greater Manchester,Manchester,Active,Savings,2023-01-11 10:30:00
+20,John,Doe,1970-01-01,john.doe@email.com,+44 7911 123456,"123 Market Street, Manchester, M1 2AB",Greater Manchester,Manchester,Active,Savings,2023-01-01 10:00:00
+21,Sofia,Pavlova,1970-01-01,sofia.pavlova@email.com,+44 7911 112233,"11 Oxford Road, Manchester, M14 5LX",Greater Manchester,Manchester,Active,Checking,2023-06-01 10:00:00
+22,Jade,Williams,1970-01-01,jade.williams@email.com,+44 7911 334455,"56 Deansgate, Manchester, M3 2QX",Greater Manchester,Manchester,Active,Credit,2023-06-10 11:30:00
+23,Mohammed,Al-Farsi,1970-01-01,mohammed.alfarsi@email.com,+44 7911 667788,"89 Piccadilly, Manchester, M1 1AB",Greater Manchester,Manchester,Suspended,Savings,2023-06-15 14:20:00
+24,Hannah,Johnson,1970-01-01,hannah.johnson@email.com,+44 7911 223344,"34 Oxford Road, Manchester, M2 3BX",Greater Manchester,Manchester,Active,Checking,2023-06-18 16:40:00
+25,Carlos,Rodriguez,1970-01-01,carlos.rodriguez@email.com,+44 7911 556677,"120 King Street, Manchester, M2 5LP",Greater Manchester,Manchester,Active,Savings,2023-06-20 17:10:00
+26,Liza,Bates,1970-01-01,liza.bates@email.com,+44 7911 998877,"34 High Street, Manchester, M3 4AF",Greater Manchester,Manchester,Active,Credit,2023-06-23 18:00:00
+27,Yusuf,Ahmed,1970-01-01,yusuf.ahmed@email.com,+44 7911 776655,"210 Victoria Road, Manchester, M14 5LX",Greater Manchester,Manchester,Suspended,Savings,2023-06-25 09:30:00
+28,Olga,Vasilenko,1970-01-01,olga.vasilenko@email.com,+44 7911 223456,"77 Deansgate, Manchester, M3 2EH",Greater Manchester,Manchester,Active,Credit,2023-06-28 14:50:00
+29,Abigail,Taylor,1970-01-01,abigail.taylor@email.com,+44 7911 445566,"123 Wilmslow Road, Manchester, M14 6HH",Greater Manchester,Manchester,Active,Checking,2023-07-01 15:20:00
+30,Leon,Chavez,1970-01-01,leon.chavez@email.com,+44 7911 778899,"234 Rusholme, Manchester, M14 5XZ",Greater Manchester,Manchester,Suspended,Savings,2023-07-03 16:30:00
+31,Ingrid,Karlsson,1970-01-01,ingrid.karlsson@email.com,+44 7911 889900,"45 Chorlton Road, Manchester, M21 9BE",Greater Manchester,Manchester,Active,Credit,2023-07-05 11:00:00
+32,Ravi,Patel,1970-01-01,ravi.patel@email.com,+44 7911 998877,"56 Whalley Range, Manchester, M16 7DA",Greater Manchester,Manchester,Active,Savings,2023-07-07 12:40:00
+33,Anastasia,Popova,1970-01-01,anastasia.popova@email.com,+44 7911 334477,"99 Oxford Road, Manchester, M2 4AW",Greater Manchester,Manchester,Suspended,Credit,2023-07-10 13:15:00
+34,Kofi,Mensah,1970-01-01,kofi.mensah@email.com,+44 7911 556688,"200 Deansgate, Manchester, M3 2GH",Greater Manchester,Manchester,Active,Checking,2023-07-12 14:45:00
+35,Ella,Brown,1970-01-01,ella.brown@email.com,+44 7911 667789,"78 Market Street, Manchester, M1 1AW",Greater Manchester,Manchester,Active,Savings,2023-07-15 15:20:00
+36,Andrzej,Nowak,1970-01-01,andrzej.nowak@email.com,+44 7911 223344,"300 High Street, Manchester, M4 5AH",Greater Manchester,Manchester,Active,Credit,2023-07-17 16:35:00
+37,Fatima,Omar,1970-01-01,fatima.omar@email.com,+44 7911 445588,"50 Levenshulme, Manchester, M19 3LF",Greater Manchester,Manchester,Suspended,Savings,2023-07-19 17:00:00
+38,Lukas,Kowalski,1970-01-01,lukas.kowalski@email.com,+44 7911 556677,"21 Trafford Road, Manchester, M17 8AA",Greater Manchester,Manchester,Active,Checking,2023-07-22 10:10:00
+39,Mariam,Ndiaye,1970-01-01,mariam.ndiaye@email.com,+44 7911 889911,"210 Oldham Road, Manchester, M1 4BF",Greater Manchester,Manchester,Suspended,Savings,2023-07-25 12:30:00
+40,Jarek,Zielinski,1970-01-01,jarek.zielinski@email.com,+44 7911 223355,"90 Salford Road, Manchester, M6 6EE",Greater Manchester,Manchester,Active,Credit,2023-07-27 13:50:00
+1,Olivia,Smith,1970-01-01,olivia.smith@email.com,+44 7911 654321,"456 High Street, Manchester, M2 3CD",Greater Manchester,Manchester,Active,Checking,2023-03-05 14:00:00
+2,Amara,Okafor,1970-01-01,amara.okafor@email.com,+44 7911 987654,"789 Piccadilly, Manchester, M3 4EF",Greater Manchester,Manchester,Suspended,Savings,2023-04-10 11:30:00
+3,Ivan,Petrov,1970-01-01,ivan.petrov@email.com,+44 7911 654987,"321 Oxford Road, Manchester, M2 4AB",Greater Manchester,Manchester,Active,Credit,2023-02-25 08:00:00
+4,Marta,Kowalska,1970-01-01,marta.kowalska@email.com,+44 7911 112233,"654 Deansgate, Manchester, M3 2QX",Greater Manchester,Manchester,Active,Savings,2023-04-12 15:00:00
+5,Kwame,Asamoah,1970-01-01,kwame.asamoah@email.com,+44 7911 223344,"213 King Street, Manchester, M1 1AD",Greater Manchester,Manchester,Active,Checking,2023-01-18 13:45:00
+6,Sofia,Morozova,1970-01-01,sofia.morozova@email.com,+44 7911 667788,"987 Castlefield, Manchester, M15 4HL",Greater Manchester,Manchester,Suspended,Credit,2023-05-09 09:30:00
+7,Fatou,Diallo,1970-01-01,fatou.diallo@email.com,+44 7911 445566,"123 Rusholme, Manchester, M14 5HZ",Greater Manchester,Manchester,Active,Savings,2023-04-01 17:00:00
+8,Daniel,Ogunleye,1970-01-01,daniel.ogunleye@email.com,+44 7911 778899,"345 Moss Side, Manchester, M14 4AH",Greater Manchester,Manchester,Active,Checking,2023-02-17 12:20:00
+9,Elena,Sokolova,1970-01-01,elena.sokolova@email.com,+44 7911 990011,"567 Levenshulme, Manchester, M19 3JA",Greater Manchester,Manchester,Suspended,Savings,2023-05-05 14:45:00
+10,Liam,Jones,1970-01-01,liam.jones@email.com,+44 7911 123321,"876 Ashton Old Road, Manchester, M11 4HF",Greater Manchester,Manchester,Active,Credit,2023-03-12 09:15:00
+11,Nina,Martinez,1970-01-01,nina.martinez@email.com,+44 7911 334455,"432 Victoria Park, Manchester, M14 5LJ",Greater Manchester,Manchester,Active,Savings,2023-01-23 10:30:00
+12,Mikhail,Ivanov,1970-01-01,mikhail.ivanov@email.com,+44 7911 556677,"321 Longsight, Manchester, M12 5RL",Greater Manchester,Manchester,Suspended,Credit,2023-04-15 11:00:00
+13,Amina,Mohammed,1970-01-01,amina.mohammed@email.com,+44 7911 667799,"123 Newton Heath, Manchester, M40 3HR",Greater Manchester,Manchester,Active,Savings,2023-03-28 16:00:00
+14,Tomasz,Nowak,1970-01-01,tomasz.nowak@email.com,+44 7911 223577,"654 Chorlton, Manchester, M21 9JL",Greater Manchester,Manchester,Active,Checking,2023-04-10 10:00:00
+15,Rita,Nwankwo,1970-01-01,rita.nwankwo@email.com,+44 7911 889900,"789 Broughton, Manchester, M7 1PB",Greater Manchester,Manchester,Suspended,Savings,2023-05-02 13:00:00
+16,Zoe,Peters,1970-01-01,zoe.peters@email.com,+44 7911 112233,"234 Ancoats, Manchester, M4 4BS",Greater Manchester,Manchester,Active,Credit,2023-02-10 12:30:00
+17,Olu,Adebayo,1970-01-01,olu.adebayo@email.com,+44 7911 334478,"345 Fallowfield, Manchester, M14 6BZ",Greater Manchester,Manchester,Active,Savings,2023-03-20 18:00:00
+18,Kristina,Lebedeva,1970-01-01,kristina.lebedeva@email.com,+44 7911 445577,"234 Whalley Range, Manchester, M16 7DA",Greater Manchester,Manchester,Suspended,Credit,2023-04-21 14:10:00
+19,Lucia,Susan,1970-01-01,lucia.susan@email.com,+44 7911 399458,"433 Victoria Park, Manchester, M14 5LJ",Greater Manchester,Manchester,Active,Savings,2023-01-11 10:30:00
+20,John,Doe,1970-01-01,john.doe@email.com,+44 7911 123456,"123 Market Street, Manchester, M1 2AB",Greater Manchester,Manchester,Active,Savings,2023-01-01 10:00:00
+21,Sofia,Pavlova,1970-01-01,sofia.pavlova@email.com,+44 7911 112233,"11 Oxford Road, Manchester, M14 5LX",Greater Manchester,Manchester,Active,Checking,2023-06-01 10:00:00
+22,Jade,Williams,1970-01-01,jade.williams@email.com,+44 7911 334455,"56 Deansgate, Manchester, M3 2QX",Greater Manchester,Manchester,Active,Credit,2023-06-10 11:30:00
+23,Mohammed,Al-Farsi,1970-01-01,mohammed.alfarsi@email.com,+44 7911 667788,"89 Piccadilly, Manchester, M1 1AB",Greater Manchester,Manchester,Suspended,Savings,2023-06-15 14:20:00
+24,Hannah,Johnson,1970-01-01,hannah.johnson@email.com,+44 7911 223344,"34 Oxford Road, Manchester, M2 3BX",Greater Manchester,Manchester,Active,Checking,2023-06-18 16:40:00
+25,Carlos,Rodriguez,1970-01-01,carlos.rodriguez@email.com,+44 7911 556677,"120 King Street, Manchester, M2 5LP",Greater Manchester,Manchester,Active,Savings,2023-06-20 17:10:00
+26,Liza,Bates,1970-01-01,liza.bates@email.com,+44 7911 998877,"34 High Street, Manchester, M3 4AF",Greater Manchester,Manchester,Active,Credit,2023-06-23 18:00:00
+27,Yusuf,Ahmed,1970-01-01,yusuf.ahmed@email.com,+44 7911 776655,"210 Victoria Road, Manchester, M14 5LX",Greater Manchester,Manchester,Suspended,Savings,2023-06-25 09:30:00
+28,Olga,Vasilenko,1970-01-01,olga.vasilenko@email.com,+44 7911 223456,"77 Deansgate, Manchester, M3 2EH",Greater Manchester,Manchester,Active,Credit,2023-06-28 14:50:00
+29,Abigail,Taylor,1970-01-01,abigail.taylor@email.com,+44 7911 445566,"123 Wilmslow Road, Manchester, M14 6HH",Greater Manchester,Manchester,Active,Checking,2023-07-01 15:20:00
+30,Leon,Chavez,1970-01-01,leon.chavez@email.com,+44 7911 778899,"234 Rusholme, Manchester, M14 5XZ",Greater Manchester,Manchester,Suspended,Savings,2023-07-03 16:30:00
+31,Ingrid,Karlsson,1970-01-01,ingrid.karlsson@email.com,+44 7911 889900,"45 Chorlton Road, Manchester, M21 9BE",Greater Manchester,Manchester,Active,Credit,2023-07-05 11:00:00
+32,Ravi,Patel,1970-01-01,ravi.patel@email.com,+44 7911 998877,"56 Whalley Range, Manchester, M16 7DA",Greater Manchester,Manchester,Active,Savings,2023-07-07 12:40:00
+33,Anastasia,Popova,1970-01-01,anastasia.popova@email.com,+44 7911 334477,"99 Oxford Road, Manchester, M2 4AW",Greater Manchester,Manchester,Suspended,Credit,2023-07-10 13:15:00
+34,Kofi,Mensah,1970-01-01,kofi.mensah@email.com,+44 7911 556688,"200 Deansgate, Manchester, M3 2GH",Greater Manchester,Manchester,Active,Checking,2023-07-12 14:45:00
+35,Ella,Brown,1970-01-01,ella.brown@email.com,+44 7911 667789,"78 Market Street, Manchester, M1 1AW",Greater Manchester,Manchester,Active,Savings,2023-07-15 15:20:00
+36,Andrzej,Nowak,1970-01-01,andrzej.nowak@email.com,+44 7911 223344,"300 High Street, Manchester, M4 5AH",Greater Manchester,Manchester,Active,Credit,2023-07-17 16:35:00
+37,Fatima,Omar,1970-01-01,fatima.omar@email.com,+44 7911 445588,"50 Levenshulme, Manchester, M19 3LF",Greater Manchester,Manchester,Suspended,Savings,2023-07-19 17:00:00
+38,Lukas,Kowalski,1970-01-01,lukas.kowalski@email.com,+44 7911 556677,"21 Trafford Road, Manchester, M17 8AA",Greater Manchester,Manchester,Active,Checking,2023-07-22 10:10:00
+39,Mariam,Ndiaye,1970-01-01,mariam.ndiaye@email.com,+44 7911 889911,"210 Oldham Road, Manchester, M1 4BF",Greater Manchester,Manchester,Suspended,Savings,2023-07-25 12:30:00
+40,Jarek,Zielinski,1970-01-01,jarek.zielinski@email.com,+44 7911 223355,"90 Salford Road, Manchester, M6 6EE",Greater Manchester,Manchester,Active,Credit,2023-07-27 13:50:00
+1,Olivia,Smith,1970-01-01,olivia.smith@email.com,+44 7911 654321,"456 High Street, Manchester, M2 3CD",Greater Manchester,Manchester,Active,Checking,2023-03-05 14:00:00
+2,Amara,Okafor,1970-01-01,amara.okafor@email.com,+44 7911 987654,"789 Piccadilly, Manchester, M3 4EF",Greater Manchester,Manchester,Suspended,Savings,2023-04-10 11:30:00
+3,Ivan,Petrov,1970-01-01,ivan.petrov@email.com,+44 7911 654987,"321 Oxford Road, Manchester, M2 4AB",Greater Manchester,Manchester,Active,Credit,2023-02-25 08:00:00
+4,Marta,Kowalska,1970-01-01,marta.kowalska@email.com,+44 7911 112233,"654 Deansgate, Manchester, M3 2QX",Greater Manchester,Manchester,Active,Savings,2023-04-12 15:00:00
+5,Kwame,Asamoah,1970-01-01,kwame.asamoah@email.com,+44 7911 223344,"213 King Street, Manchester, M1 1AD",Greater Manchester,Manchester,Active,Checking,2023-01-18 13:45:00
+6,Sofia,Morozova,1970-01-01,sofia.morozova@email.com,+44 7911 667788,"987 Castlefield, Manchester, M15 4HL",Greater Manchester,Manchester,Suspended,Credit,2023-05-09 09:30:00
+7,Fatou,Diallo,1970-01-01,fatou.diallo@email.com,+44 7911 445566,"123 Rusholme, Manchester, M14 5HZ",Greater Manchester,Manchester,Active,Savings,2023-04-01 17:00:00
+8,Daniel,Ogunleye,1970-01-01,daniel.ogunleye@email.com,+44 7911 778899,"345 Moss Side, Manchester, M14 4AH",Greater Manchester,Manchester,Active,Checking,2023-02-17 12:20:00
+9,Elena,Sokolova,1970-01-01,elena.sokolova@email.com,+44 7911 990011,"567 Levenshulme, Manchester, M19 3JA",Greater Manchester,Manchester,Suspended,Savings,2023-05-05 14:45:00
+10,Liam,Jones,1970-01-01,liam.jones@email.com,+44 7911 123321,"876 Ashton Old Road, Manchester, M11 4HF",Greater Manchester,Manchester,Active,Credit,2023-03-12 09:15:00
+11,Nina,Martinez,1970-01-01,nina.martinez@email.com,+44 7911 334455,"432 Victoria Park, Manchester, M14 5LJ",Greater Manchester,Manchester,Active,Savings,2023-01-23 10:30:00
+12,Mikhail,Ivanov,1970-01-01,mikhail.ivanov@email.com,+44 7911 556677,"321 Longsight, Manchester, M12 5RL",Greater Manchester,Manchester,Suspended,Credit,2023-04-15 11:00:00
+13,Amina,Mohammed,1970-01-01,amina.mohammed@email.com,+44 7911 667799,"123 Newton Heath, Manchester, M40 3HR",Greater Manchester,Manchester,Active,Savings,2023-03-28 16:00:00
+14,Tomasz,Nowak,1970-01-01,tomasz.nowak@email.com,+44 7911 223577,"654 Chorlton, Manchester, M21 9JL",Greater Manchester,Manchester,Active,Checking,2023-04-10 10:00:00
+15,Rita,Nwankwo,1970-01-01,rita.nwankwo@email.com,+44 7911 889900,"789 Broughton, Manchester, M7 1PB",Greater Manchester,Manchester,Suspended,Savings,2023-05-02 13:00:00
+16,Zoe,Peters,1970-01-01,zoe.peters@email.com,+44 7911 112233,"234 Ancoats, Manchester, M4 4BS",Greater Manchester,Manchester,Active,Credit,2023-02-10 12:30:00
+17,Olu,Adebayo,1970-01-01,olu.adebayo@email.com,+44 7911 334478,"345 Fallowfield, Manchester, M14 6BZ",Greater Manchester,Manchester,Active,Savings,2023-03-20 18:00:00
+18,Kristina,Lebedeva,1970-01-01,kristina.lebedeva@email.com,+44 7911 445577,"234 Whalley Range, Manchester, M16 7DA",Greater Manchester,Manchester,Suspended,Credit,2023-04-21 14:10:00
+19,Lucia,Susan,1970-01-01,lucia.susan@email.com,+44 7911 399458,"433 Victoria Park, Manchester, M14 5LJ",Greater Manchester,Manchester,Active,Savings,2023-01-11 10:30:00
+20,John,Doe,1970-01-01,john.doe@email.com,+44 7911 123456,"123 Market Street, Manchester, M1 2AB",Greater Manchester,Manchester,Active,Savings,2023-01-01 10:00:00
+21,Sofia,Pavlova,1970-01-01,sofia.pavlova@email.com,+44 7911 112233,"11 Oxford Road, Manchester, M14 5LX",Greater Manchester,Manchester,Active,Checking,2023-06-01 10:00:00
+22,Jade,Williams,1970-01-01,jade.williams@email.com,+44 7911 334455,"56 Deansgate, Manchester, M3 2QX",Greater Manchester,Manchester,Active,Credit,2023-06-10 11:30:00
+23,Mohammed,Al-Farsi,1970-01-01,mohammed.alfarsi@email.com,+44 7911 667788,"89 Piccadilly, Manchester, M1 1AB",Greater Manchester,Manchester,Suspended,Savings,2023-06-15 14:20:00
+24,Hannah,Johnson,1970-01-01,hannah.johnson@email.com,+44 7911 223344,"34 Oxford Road, Manchester, M2 3BX",Greater Manchester,Manchester,Active,Checking,2023-06-18 16:40:00
+25,Carlos,Rodriguez,1970-01-01,carlos.rodriguez@email.com,+44 7911 556677,"120 King Street, Manchester, M2 5LP",Greater Manchester,Manchester,Active,Savings,2023-06-20 17:10:00
+26,Liza,Bates,1970-01-01,liza.bates@email.com,+44 7911 998877,"34 High Street, Manchester, M3 4AF",Greater Manchester,Manchester,Active,Credit,2023-06-23 18:00:00
+27,Yusuf,Ahmed,1970-01-01,yusuf.ahmed@email.com,+44 7911 776655,"210 Victoria Road, Manchester, M14 5LX",Greater Manchester,Manchester,Suspended,Savings,2023-06-25 09:30:00
+28,Olga,Vasilenko,1970-01-01,olga.vasilenko@email.com,+44 7911 223456,"77 Deansgate, Manchester, M3 2EH",Greater Manchester,Manchester,Active,Credit,2023-06-28 14:50:00
+29,Abigail,Taylor,1970-01-01,abigail.taylor@email.com,+44 7911 445566,"123 Wilmslow Road, Manchester, M14 6HH",Greater Manchester,Manchester,Active,Checking,2023-07-01 15:20:00
+30,Leon,Chavez,1970-01-01,leon.chavez@email.com,+44 7911 778899,"234 Rusholme, Manchester, M14 5XZ",Greater Manchester,Manchester,Suspended,Savings,2023-07-03 16:30:00
+31,Ingrid,Karlsson,1970-01-01,ingrid.karlsson@email.com,+44 7911 889900,"45 Chorlton Road, Manchester, M21 9BE",Greater Manchester,Manchester,Active,Credit,2023-07-05 11:00:00
+32,Ravi,Patel,1970-01-01,ravi.patel@email.com,+44 7911 998877,"56 Whalley Range, Manchester, M16 7DA",Greater Manchester,Manchester,Active,Savings,2023-07-07 12:40:00
+33,Anastasia,Popova,1970-01-01,anastasia.popova@email.com,+44 7911 334477,"99 Oxford Road, Manchester, M2 4AW",Greater Manchester,Manchester,Suspended,Credit,2023-07-10 13:15:00
+34,Kofi,Mensah,1970-01-01,kofi.mensah@email.com,+44 7911 556688,"200 Deansgate, Manchester, M3 2GH",Greater Manchester,Manchester,Active,Checking,2023-07-12 14:45:00
+35,Ella,Brown,1970-01-01,ella.brown@email.com,+44 7911 667789,"78 Market Street, Manchester, M1 1AW",Greater Manchester,Manchester,Active,Savings,2023-07-15 15:20:00
+36,Andrzej,Nowak,1970-01-01,andrzej.nowak@email.com,+44 7911 223344,"300 High Street, Manchester, M4 5AH",Greater Manchester,Manchester,Active,Credit,2023-07-17 16:35:00
+37,Fatima,Omar,1970-01-01,fatima.omar@email.com,+44 7911 445588,"50 Levenshulme, Manchester, M19 3LF",Greater Manchester,Manchester,Suspended,Savings,2023-07-19 17:00:00
+38,Lukas,Kowalski,1970-01-01,lukas.kowalski@email.com,+44 7911 556677,"21 Trafford Road, Manchester, M17 8AA",Greater Manchester,Manchester,Active,Checking,2023-07-22 10:10:00
+39,Mariam,Ndiaye,1970-01-01,mariam.ndiaye@email.com,+44 7911 889911,"210 Oldham Road, Manchester, M1 4BF",Greater Manchester,Manchester,Suspended,Savings,2023-07-25 12:30:00
+40,Jarek,Zielinski,1970-01-01,jarek.zielinski@email.com,+44 7911 223355,"90 Salford Road, Manchester, M6 6EE",Greater Manchester,Manchester,Active,Credit,2023-07-27 13:50:00
+1,Olivia,Smith,1970-01-01,olivia.smith@email.com,+44 7911 654321,"456 High Street, Manchester, M2 3CD",Greater Manchester,Manchester,Active,Checking,2023-03-05 14:00:00
+2,Amara,Okafor,1970-01-01,amara.okafor@email.com,+44 7911 987654,"789 Piccadilly, Manchester, M3 4EF",Greater Manchester,Manchester,Suspended,Savings,2023-04-10 11:30:00
+3,Ivan,Petrov,1970-01-01,ivan.petrov@email.com,+44 7911 654987,"321 Oxford Road, Manchester, M2 4AB",Greater Manchester,Manchester,Active,Credit,2023-02-25 08:00:00
+4,Marta,Kowalska,1970-01-01,marta.kowalska@email.com,+44 7911 112233,"654 Deansgate, Manchester, M3 2QX",Greater Manchester,Manchester,Active,Savings,2023-04-12 15:00:00
+5,Kwame,Asamoah,1970-01-01,kwame.asamoah@email.com,+44 7911 223344,"213 King Street, Manchester, M1 1AD",Greater Manchester,Manchester,Active,Checking,2023-01-18 13:45:00
+6,Sofia,Morozova,1970-01-01,sofia.morozova@email.com,+44 7911 667788,"987 Castlefield, Manchester, M15 4HL",Greater Manchester,Manchester,Suspended,Credit,2023-05-09 09:30:00
+7,Fatou,Diallo,1970-01-01,fatou.diallo@email.com,+44 7911 445566,"123 Rusholme, Manchester, M14 5HZ",Greater Manchester,Manchester,Active,Savings,2023-04-01 17:00:00
+8,Daniel,Ogunleye,1970-01-01,daniel.ogunleye@email.com,+44 7911 778899,"345 Moss Side, Manchester, M14 4AH",Greater Manchester,Manchester,Active,Checking,2023-02-17 12:20:00
+9,Elena,Sokolova,1970-01-01,elena.sokolova@email.com,+44 7911 990011,"567 Levenshulme, Manchester, M19 3JA",Greater Manchester,Manchester,Suspended,Savings,2023-05-05 14:45:00
+10,Liam,Jones,1970-01-01,liam.jones@email.com,+44 7911 123321,"876 Ashton Old Road, Manchester, M11 4HF",Greater Manchester,Manchester,Active,Credit,2023-03-12 09:15:00
+11,Nina,Martinez,1970-01-01,nina.martinez@email.com,+44 7911 334455,"432 Victoria Park, Manchester, M14 5LJ",Greater Manchester,Manchester,Active,Savings,2023-01-23 10:30:00
+12,Mikhail,Ivanov,1970-01-01,mikhail.ivanov@email.com,+44 7911 556677,"321 Longsight, Manchester, M12 5RL",Greater Manchester,Manchester,Suspended,Credit,2023-04-15 11:00:00
+13,Amina,Mohammed,1970-01-01,amina.mohammed@email.com,+44 7911 667799,"123 Newton Heath, Manchester, M40 3HR",Greater Manchester,Manchester,Active,Savings,2023-03-28 16:00:00
+14,Tomasz,Nowak,1970-01-01,tomasz.nowak@email.com,+44 7911 223577,"654 Chorlton, Manchester, M21 9JL",Greater Manchester,Manchester,Active,Checking,2023-04-10 10:00:00
+15,Rita,Nwankwo,1970-01-01,rita.nwankwo@email.com,+44 7911 889900,"789 Broughton, Manchester, M7 1PB",Greater Manchester,Manchester,Suspended,Savings,2023-05-02 13:00:00
+16,Zoe,Peters,1970-01-01,zoe.peters@email.com,+44 7911 112233,"234 Ancoats, Manchester, M4 4BS",Greater Manchester,Manchester,Active,Credit,2023-02-10 12:30:00
+17,Olu,Adebayo,1970-01-01,olu.adebayo@email.com,+44 7911 334478,"345 Fallowfield, Manchester, M14 6BZ",Greater Manchester,Manchester,Active,Savings,2023-03-20 18:00:00
+18,Kristina,Lebedeva,1970-01-01,kristina.lebedeva@email.com,+44 7911 445577,"234 Whalley Range, Manchester, M16 7DA",Greater Manchester,Manchester,Suspended,Credit,2023-04-21 14:10:00
+19,Lucia,Susan,1970-01-01,lucia.susan@email.com,+44 7911 399458,"433 Victoria Park, Manchester, M14 5LJ",Greater Manchester,Manchester,Active,Savings,2023-01-11 10:30:00
+20,John,Doe,1970-01-01,john.doe@email.com,+44 7911 123456,"123 Market Street, Manchester, M1 2AB",Greater Manchester,Manchester,Active,Savings,2023-01-01 10:00:00
+21,Sofia,Pavlova,1970-01-01,sofia.pavlova@email.com,+44 7911 112233,"11 Oxford Road, Manchester, M14 5LX",Greater Manchester,Manchester,Active,Checking,2023-06-01 10:00:00
+22,Jade,Williams,1970-01-01,jade.williams@email.com,+44 7911 334455,"56 Deansgate, Manchester, M3 2QX",Greater Manchester,Manchester,Active,Credit,2023-06-10 11:30:00
+23,Mohammed,Al-Farsi,1970-01-01,mohammed.alfarsi@email.com,+44 7911 667788,"89 Piccadilly, Manchester, M1 1AB",Greater Manchester,Manchester,Suspended,Savings,2023-06-15 14:20:00
+24,Hannah,Johnson,1970-01-01,hannah.johnson@email.com,+44 7911 223344,"34 Oxford Road, Manchester, M2 3BX",Greater Manchester,Manchester,Active,Checking,2023-06-18 16:40:00
+25,Carlos,Rodriguez,1970-01-01,carlos.rodriguez@email.com,+44 7911 556677,"120 King Street, Manchester, M2 5LP",Greater Manchester,Manchester,Active,Savings,2023-06-20 17:10:00
+26,Liza,Bates,1970-01-01,liza.bates@email.com,+44 7911 998877,"34 High Street, Manchester, M3 4AF",Greater Manchester,Manchester,Active,Credit,2023-06-23 18:00:00
+27,Yusuf,Ahmed,1970-01-01,yusuf.ahmed@email.com,+44 7911 776655,"210 Victoria Road, Manchester, M14 5LX",Greater Manchester,Manchester,Suspended,Savings,2023-06-25 09:30:00
+28,Olga,Vasilenko,1970-01-01,olga.vasilenko@email.com,+44 7911 223456,"77 Deansgate, Manchester, M3 2EH",Greater Manchester,Manchester,Active,Credit,2023-06-28 14:50:00
+29,Abigail,Taylor,1970-01-01,abigail.taylor@email.com,+44 7911 445566,"123 Wilmslow Road, Manchester, M14 6HH",Greater Manchester,Manchester,Active,Checking,2023-07-01 15:20:00
+30,Leon,Chavez,1970-01-01,leon.chavez@email.com,+44 7911 778899,"234 Rusholme, Manchester, M14 5XZ",Greater Manchester,Manchester,Suspended,Savings,2023-07-03 16:30:00
+31,Ingrid,Karlsson,1970-01-01,ingrid.karlsson@email.com,+44 7911 889900,"45 Chorlton Road, Manchester, M21 9BE",Greater Manchester,Manchester,Active,Credit,2023-07-05 11:00:00
+32,Ravi,Patel,1970-01-01,ravi.patel@email.com,+44 7911 998877,"56 Whalley Range, Manchester, M16 7DA",Greater Manchester,Manchester,Active,Savings,2023-07-07 12:40:00
+33,Anastasia,Popova,1970-01-01,anastasia.popova@email.com,+44 7911 334477,"99 Oxford Road, Manchester, M2 4AW",Greater Manchester,Manchester,Suspended,Credit,2023-07-10 13:15:00
+34,Kofi,Mensah,1970-01-01,kofi.mensah@email.com,+44 7911 556688,"200 Deansgate, Manchester, M3 2GH",Greater Manchester,Manchester,Active,Checking,2023-07-12 14:45:00
+35,Ella,Brown,1970-01-01,ella.brown@email.com,+44 7911 667789,"78 Market Street, Manchester, M1 1AW",Greater Manchester,Manchester,Active,Savings,2023-07-15 15:20:00
+36,Andrzej,Nowak,1970-01-01,andrzej.nowak@email.com,+44 7911 223344,"300 High Street, Manchester, M4 5AH",Greater Manchester,Manchester,Active,Credit,2023-07-17 16:35:00
+37,Fatima,Omar,1970-01-01,fatima.omar@email.com,+44 7911 445588,"50 Levenshulme, Manchester, M19 3LF",Greater Manchester,Manchester,Suspended,Savings,2023-07-19 17:00:00
+38,Lukas,Kowalski,1970-01-01,lukas.kowalski@email.com,+44 7911 556677,"21 Trafford Road, Manchester, M17 8AA",Greater Manchester,Manchester,Active,Checking,2023-07-22 10:10:00
+39,Mariam,Ndiaye,1970-01-01,mariam.ndiaye@email.com,+44 7911 889911,"210 Oldham Road, Manchester, M1 4BF",Greater Manchester,Manchester,Suspended,Savings,2023-07-25 12:30:00
+40,Jarek,Zielinski,1970-01-01,jarek.zielinski@email.com,+44 7911 223355,"90 Salford Road, Manchester, M6 6EE",Greater Manchester,Manchester,Active,Credit,2023-07-27 13:50:00
